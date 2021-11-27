@@ -1,5 +1,5 @@
 # <b><i>Yoshitha Rathnayake</i></b>
-# <img src="Yoshitha Rathnayake 1.png" height="250px">
+# <img src="Yoshitha Rathnayake.png" height="250px">
 <a href="https://github.com/yoshithasenesh2008">@yoshithasenesh2008<a>
 
 > Hi, I am Yoshitha Rathnayake. This is my personal portfolio. 
